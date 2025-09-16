@@ -19,10 +19,3 @@ The crawler can:
 - Easy to deploy with **GitHub Actions** or run locally  
 
 ---
-
-## 📦 Installation (Local)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/game-trending-crawler.git
-   cd game-trending-crawler
